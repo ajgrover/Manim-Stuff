@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/274514146_1329314881_2722326812.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_3760946970_878908.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_791967190_3893304685.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_3611094730_1321476832.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_1076466279_1630940027.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_3345420540_222747972.mp4'
+file 'file:/Users/ajgrover/Documents/Manim-Stuff/media/videos/Manim-Stuff/720p30/partial_movie_files/GraphingIntro/2789044632_791967190_3285797350.mp4'
